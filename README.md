@@ -38,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jatin923/30DaysLeetoceChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/jatin923/30DaysLeetoceChallenge/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/jatin923/30DaysLeetoceChallenge/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
