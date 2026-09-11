@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jatin923/30DaysLeetoceChallenge/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/jatin923/30DaysLeetoceChallenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/jatin923/30DaysLeetoceChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0877-stone-game](https://github.com/jatin923/30DaysLeetoceChallenge/tree/master/0877-stone-game) |
 ## Math
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jatin923/30DaysLeetoceChallenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/jatin923/30DaysLeetoceChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
