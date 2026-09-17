@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/jatin923/30DaysLeetoceChallenge/tree/master/0050-powx-n) |
 | [0877-stone-game](https://github.com/jatin923/30DaysLeetoceChallenge/tree/master/0877-stone-game) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/jatin923/30DaysLeetoceChallenge/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/jatin923/30DaysLeetoceChallenge/tree/master/2652-sum-multiples) |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/jatin923/30DaysLeetoceChallenge/tree/master/0344-reverse-string) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/jatin923/30DaysLeetoceChallenge/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
